@@ -1,0 +1,23 @@
+{
+    "Acknowledgements": "We thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav Halchenko for preparing the BIDS dataset.",
+    "Authors": [
+        "Matteo Visconti di Oleggio Castello",
+        "Guo Jiahui",
+        "Ma Feilong",
+        "Manon de Villemejane",
+        "James V. Haxby",
+        "M. Ida Gobbini"
+    ],
+    "BIDSVersion": "1.10.1",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "NSF grant #1835200"
+    ],
+    "HowToAcknowledge": "Please cite the corresponding paper describing the dataset: [TODO]",
+    "License": "CC0",
+    "Name": "hyperface: a naturalistic fMRI dataset to characterize human face processing",
+    "ReferencesAndLinks": [
+        "https://github.com/mvdoc/hyperface-data-paper",
+        "https://openneuro.org/datasets/ds007329"
+    ]
+}
