@@ -10,14 +10,26 @@
     ],
     "BIDSVersion": "1.10.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetType": "raw",
     "Funding": [
         "NSF grant #1835200"
     ],
     "HowToAcknowledge": "Please cite the corresponding paper describing the dataset: [TODO]",
     "License": "CC0",
     "Name": "hyperface: a naturalistic fMRI dataset to characterize human face processing",
+    "DatasetLinks": {
+        "fmriprep": "https://openneuro.org/datasets/ds007384",
+        "freesurfer": "https://openneuro.org/datasets/ds007378"
+    },
     "ReferencesAndLinks": [
         "https://github.com/mvdoc/hyperface-data-paper",
-        "https://openneuro.org/datasets/ds007329"
+        "https://openneuro.org/datasets/ds007329",
+        "https://openneuro.org/datasets/ds003017",
+        "https://openneuro.org/datasets/ds003834",
+        "https://openneuro.org/datasets/ds007384",
+        "https://openneuro.org/datasets/ds007378",
+        "https://doi.org/10.1038/s41597-020-00735-4",
+        "https://doi.org/10.1073/pnas.2110474118",
+        "https://doi.org/10.1073/pnas.2304085120"
     ]
 }

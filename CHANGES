@@ -1,3 +1,2 @@
 1.0.0  First release
-  - BIDS-compatible dataset with validated structure
-  - Dataset passes BIDS validator with 21 subjects, 3 sessions each
+    - Contains raw data for all subjects after defacing
