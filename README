@@ -1,0 +1,12 @@
+This dataset contains BIDS-formatted fMRI data from the hyperface study.
+
+The dataset includes three sessions per participant:
+- ses-1: Contains functional, fieldmap, DWI, and T2w anatomical data
+- ses-2: Contains functional, fieldmap, and DWI data  
+- ses-budapest: Contains only T1w anatomical scans
+
+Note: The original budapest functional and fieldmap data have been removed from this 
+dataset. Users who need the complete dataset including budapest functional data can 
+use the merge script located under the code/ directory to combine this dataset with 
+the original budapest data from https://openneuro.org/datasets/ds003017/versions/1.0.3 
+if needed.
