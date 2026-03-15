@@ -1,0 +1,36 @@
+{
+    "Acknowledgements": "We thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav Halchenko for preparing the BIDS dataset.",
+    "Authors": [
+        "Matteo Visconti di Oleggio Castello",
+        "Guo Jiahui",
+        "Ma Feilong",
+        "Manon de Villemejane",
+        "James V. Haxby",
+        "M. Ida Gobbini"
+    ],
+    "BIDSVersion": "1.10.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007329.v1.0.0",
+    "DatasetType": "raw",
+    "Funding": [
+        "NSF grant #1835200"
+    ],
+    "HowToAcknowledge": "Please cite the corresponding paper describing the dataset: Visconti di Oleggio Castello, M., Jiahui, G., Feilong, M., de Villemejane, M., Haxby, J. V., & Gobbini, M. I. (2026). Hyperface: a naturalistic fMRI dataset for investigating human face processing. In bioRxiv (p. 2026.03.11.711073). bioRxiv. https://doi.org/10.64898/2026.03.11.711073",
+    "License": "CC0",
+    "Name": "hyperface: a naturalistic fMRI dataset to characterize human face processing",
+    "DatasetLinks": {
+        "fmriprep": "https://openneuro.org/datasets/ds007384",
+        "freesurfer": "https://openneuro.org/datasets/ds007378"
+    },
+    "ReferencesAndLinks": [
+        "https://doi.org/10.64898/2026.03.11.711073",
+        "https://github.com/mvdoc/hyperface-data-paper",
+        "https://openneuro.org/datasets/ds007329",
+        "https://openneuro.org/datasets/ds003017",
+        "https://openneuro.org/datasets/ds003834",
+        "https://openneuro.org/datasets/ds007384",
+        "https://openneuro.org/datasets/ds007378",
+        "https://doi.org/10.1038/s41597-020-00735-4",
+        "https://doi.org/10.1073/pnas.2110474118",
+        "https://doi.org/10.1073/pnas.2304085120"
+    ]
+}
