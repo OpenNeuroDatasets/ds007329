@@ -3,6 +3,15 @@ This dataset contains the raw data for
 Matteo Visconti di Oleggio Castello, Guo Jiahui, Ma Feilong, Manon de
 Villemejane, James V. Haxby, and M. Ida Gobbini.
 
+If you use this dataset or the code, please cite the corresponding
+paper:
+
+Visconti di Oleggio Castello, M., Jiahui, G., Feilong, M., de
+Villemejane, M., Haxby, J. V., & Gobbini, M. I. (2026). *Hyperface: a
+naturalistic fMRI dataset for investigating human face processing*. In
+bioRxiv (p. 2026.03.11.711073). bioRxiv.
+https://doi.org/10.64898/2026.03.11.711073
+
 Sample code for the QA analyses is available at
 https://github.com/mvdoc/hyperface-data-paper.
 
@@ -32,8 +41,6 @@ Haxby, J.V., & Gobbini, M.I. (2023). *Modeling naturalistic face processing
 in humans with deep convolutional neural networks*. Proceedings of the National
 Academy of Sciences. https://doi.org/10.1073/pnas.2304085120
 
-If you use this dataset or the code, please cite the corresponding
-paper: TODO
 
 ### Notes
 
