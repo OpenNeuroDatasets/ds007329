@@ -2,3 +2,4 @@
 	path = derivatives/fmriprep
 	url = https://github.com/OpenNeuroDatasets/ds007384.git
 	datalad-id = e6bbb2f6-78cd-4208-9aa0-f160b1f88c68
+	datalad-url = https://github.com/OpenNeuroDatasets/ds007384.git
