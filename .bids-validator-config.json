@@ -1,1 +1,9 @@
-.git/annex/objects/Zz/40/MD5E-s258--31f4728e1e2f732e831d5b2e607a76b0.json/MD5E-s258--31f4728e1e2f732e831d5b2e607a76b0.json
+{
+    "ignore": [
+        { "code": "JSON_KEY_RECOMMENDED" },
+        { "code": "SIDECAR_KEY_RECOMMENDED" },
+        { "code": "B0_FIELD_IDENTIFIER_RECOMMENDED" },
+        { "code": "SIDECAR_FIELD_OVERRIDE" },
+        { "code": "GZIP_HEADER_MTIME" }
+    ]
+}
