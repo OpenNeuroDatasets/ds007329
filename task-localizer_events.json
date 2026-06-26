@@ -1,1 +1,19 @@
-.git/annex/objects/0z/mP/MD5E-s397--22e0c590fcbda457c1fed063d3d5d68c.json/MD5E-s397--22e0c590fcbda457c1fed063d3d5d68c.json
+{
+  "onset": {
+    "Description": "Onset time of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s"
+  },
+  "stim_type": {
+    "Description": "Type of stimulus presented"
+  },
+  "video_file": {
+    "Description": "Name of the video file used as stimulus"
+  },
+  "repetition": {
+    "Description": "Repetition number of the stimulus"
+  }
+}

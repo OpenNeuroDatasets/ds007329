@@ -1,1 +1,13 @@
-.git/annex/objects/Kj/gX/MD5E-s249--3546685bb723b0e04b12518a16c6bb76.json/MD5E-s249--3546685bb723b0e04b12518a16c6bb76.json
+{
+  "onset": {
+    "Description": "Onset time of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Type of trial or experimental condition"
+  }
+}
