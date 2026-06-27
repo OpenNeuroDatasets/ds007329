@@ -15,5 +15,9 @@
   },
   "repetition": {
     "Description": "Repetition number of the stimulus"
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "PsychoPy",
+    "Code": "https://github.com/mvdoc/hyperface-data-paper"
   }
 }

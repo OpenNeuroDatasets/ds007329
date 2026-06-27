@@ -13,15 +13,6 @@
   "EchoTrainLength": 96,
   "EffectiveEchoSpacing": 0.000550011,
   "FlipAngle": 59,
-  "ImageType": [
-    "ORIGINAL",
-    "PRIMARY",
-    "FMRI",
-    "NONE",
-    "ND",
-    "NORM",
-    "MOSAIC"
-],
   "InstitutionAddress": "Maynard_3_Hanover_NH_US_03755",
   "InstitutionName": "Dartmouth_College_-_PBS",
   "MagneticFieldStrength": 3,
@@ -29,7 +20,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "MultibandAccelerationFactor": 4,
-  "PartialFourier": 1,
   "PercentPhaseFOV": 100,
   "PhaseEncodingDirection": "j-",
   "PhaseEncodingSteps": 96,
@@ -47,4 +37,7 @@
   "SoftwareVersions": "syngo_MR_E11",
   "StationName": "AWP66112",
   "TaskName": "Face visual memory task",
-  "TotalReadoutTime": 0.0522511}
+  "TotalReadoutTime": 0.0522511,
+  "TaskDescription": "Participants watched a continuous stream of 4-second naturalistic face video clips. At the end of each run they performed a recognition-memory test, reporting via button press whether specific people had appeared earlier in the run.",
+  "Instructions": "You will watch a series of videoclips. Please pay attention to the people appearing in those clips.\n\nAt the end of the run you will be asked to report whether some people appeared earlier in the run."
+}

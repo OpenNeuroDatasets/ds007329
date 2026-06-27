@@ -42,7 +42,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "MultibandAccelerationFactor": 4,
-  "PartialFourier": 1,
   "PatientPosition": "HFS",
   "PercentPhaseFOV": 100,
   "PhaseEncodingDirection": "j-",
@@ -144,5 +143,9 @@
   "SpacingBetweenSlices": 2,
   "StationName": "AWP66112",
   "TotalReadoutTime": 0.0713994,
-  "TxRefAmp": 246.301
+  "TxRefAmp": 246.301,
+  "CoilCombinationMethod": "Adaptive Combine",
+  "NonlinearGradientCorrection": false,
+  "PulseSequenceType": "Spin Echo EPI",
+  "B0FieldSource": "pepolar_ses-2"
 }

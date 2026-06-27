@@ -25,7 +25,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "ParallelReductionFactorInPlane": 4,
-  "PartialFourier": 1,
   "PercentPhaseFOV": 100,
   "PhaseEncodingSteps": 249,
   "PhaseResolution": 1,
@@ -42,5 +41,11 @@
   "SequenceVariant": "SK_SP",
   "SeriesDescription": "anat_T2w",
   "SoftwareVersions": "syngo_MR_E11",
-  "StationName": "AWP66112"
+  "StationName": "AWP66112",
+  "MatrixCoilMode": "GRAPPA",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "NonlinearGradientCorrection": false,
+  "MRAcquisitionType": "3D",
+  "InstitutionalDepartmentName": "Department",
+  "PulseSequenceType": "Spin Echo (SPACE)"
 }

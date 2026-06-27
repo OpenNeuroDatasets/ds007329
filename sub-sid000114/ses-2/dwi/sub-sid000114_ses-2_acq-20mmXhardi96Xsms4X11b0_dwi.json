@@ -41,7 +41,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "MultibandAccelerationFactor": 4,
-  "PartialFourier": 1,
   "PatientPosition": "HFS",
   "PercentPhaseFOV": 100,
   "PhaseEncodingDirection": "j-",
@@ -1129,5 +1128,9 @@
       ]
     },
     "slices": {}
-  }
+  },
+  "CoilCombinationMethod": "Adaptive Combine",
+  "NonlinearGradientCorrection": false,
+  "PulseSequenceType": "Spin Echo EPI",
+  "B0FieldSource": "pepolar_ses-2"
 }

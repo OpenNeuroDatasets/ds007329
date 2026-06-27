@@ -37,7 +37,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "ParallelReductionFactorInPlane": 4,
-  "PartialFourier": 1,
   "PatientPosition": "HFS",
   "PercentPhaseFOV": 100,
   "PhaseEncodingSteps": 249,
@@ -70,5 +69,9 @@
   "SliceThickness": 0.9,
   "SoftwareVersions": "syngo_MR_E11",
   "StationName": "AWP66112",
-  "TxRefAmp": 245.337
+  "TxRefAmp": 245.337,
+  "MatrixCoilMode": "GRAPPA",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "NonlinearGradientCorrection": false,
+  "PulseSequenceType": "Spin Echo (SPACE)"
 }

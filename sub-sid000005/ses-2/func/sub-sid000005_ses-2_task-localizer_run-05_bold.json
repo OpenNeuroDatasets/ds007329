@@ -30,7 +30,6 @@
   "ManufacturersModelName": "Prisma",
   "Modality": "MR",
   "MultibandAccelerationFactor": 4,
-  "PartialFourier": 1,
   "PercentPhaseFOV": 100,
   "PhaseEncodingDirection": "j-",
   "PhaseEncodingSteps": 96,
@@ -2008,5 +2007,11 @@
       ]
     },
     "slices": {}
-  }
+  },
+  "CoilCombinationMethod": "Sum of Squares",
+  "NonlinearGradientCorrection": false,
+  "MRAcquisitionType": "2D",
+  "InstitutionalDepartmentName": "Department",
+  "PulseSequenceType": "Gradient Echo EPI",
+  "B0FieldSource": "gre_ses-2"
 }

@@ -1,9 +1,9 @@
 {
     "ignore": [
+        { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "MatrixCoilMode" },
+        { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "CogAtlasID" },
+        { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "CogPOID" },
         { "code": "JSON_KEY_RECOMMENDED" },
-        { "code": "SIDECAR_KEY_RECOMMENDED" },
-        { "code": "B0_FIELD_IDENTIFIER_RECOMMENDED" },
-        { "code": "SIDECAR_FIELD_OVERRIDE" },
         { "code": "GZIP_HEADER_MTIME" }
     ]
 }

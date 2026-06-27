@@ -9,5 +9,9 @@
   },
   "trial_type": {
     "Description": "Type of trial or experimental condition"
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "PsychoPy",
+    "Code": "https://github.com/mvdoc/hyperface-data-paper"
   }
 }
