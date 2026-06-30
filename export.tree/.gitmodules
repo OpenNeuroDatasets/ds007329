@@ -1,0 +1,10 @@
+[submodule "derivatives/fmriprep"]
+	path = derivatives/fmriprep
+	url = https://github.com/OpenNeuroDatasets/ds007384.git
+	datalad-id = e6bbb2f6-78cd-4208-9aa0-f160b1f88c68
+	datalad-url = https://github.com/OpenNeuroDatasets/ds007384.git
+[submodule "derivatives/freesurfer"]
+	path = derivatives/freesurfer
+	url = https://github.com/OpenNeuroDatasets/ds007378.git
+	datalad-id = 5a11f32d-86c0-49de-995a-24e6fb27a98a
+	datalad-url = https://github.com/OpenNeuroDatasets/ds007378.git

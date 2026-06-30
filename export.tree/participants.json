@@ -1,0 +1,20 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years"
+  },
+  "sex": {
+    "Description": "Self-rated by participant, M for male, F for female"
+  },
+  "headcase": {
+    "Description": "Whether the subject was using a custom-molded CaseForge headcase"
+  },
+  "budapest": {
+    "Description": "Whether the participant is also included in the Budapest dataset (OpenNeuro ds003017)"
+  },
+  "identity_decoding": {
+    "Description": "Whether the participant is also included in the identity-decoding dataset (OpenNeuro ds003834)"
+  }
+}

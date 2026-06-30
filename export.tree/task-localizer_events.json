@@ -1,0 +1,23 @@
+{
+  "onset": {
+    "Description": "Onset time of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s"
+  },
+  "stim_type": {
+    "Description": "Type of stimulus presented"
+  },
+  "video_file": {
+    "Description": "Name of the video file used as stimulus"
+  },
+  "repetition": {
+    "Description": "Repetition number of the stimulus"
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "PsychoPy",
+    "Code": "https://github.com/mvdoc/hyperface-data-paper"
+  }
+}

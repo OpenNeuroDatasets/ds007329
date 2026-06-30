@@ -1,0 +1,5 @@
+
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+.bids-validator-config.json annex.largefiles=nothing
+*.json annex.largefiles=nothing
