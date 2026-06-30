@@ -14,6 +14,22 @@
     "Funding": [
         "NSF grant #1835200"
     ],
+    "GeneratedBy": [
+        {
+            "Name": "HeuDiConv",
+            "CodeURL": "https://github.com/nipy/heudiconv"
+        },
+        {
+            "Name": "dcm2niix",
+            "Version": "v1.0.20170923",
+            "CodeURL": "https://github.com/rordenlab/dcm2niix"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://openneuro.org/datasets/ds003017"
+        }
+    ],
     "HowToAcknowledge": "Please cite the corresponding paper describing the dataset: Visconti di Oleggio Castello, M., Jiahui, G., Feilong, M., de Villemejane, M., Haxby, J. V., & Gobbini, M. I. (2026). Hyperface: a naturalistic fMRI dataset for investigating human face processing. In bioRxiv (p. 2026.03.11.711073). bioRxiv. https://doi.org/10.64898/2026.03.11.711073",
     "License": "CC0",
     "Name": "hyperface: a naturalistic fMRI dataset to characterize human face processing",

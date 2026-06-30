@@ -3,7 +3,7 @@
         { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "MatrixCoilMode" },
         { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "CogAtlasID" },
         { "code": "SIDECAR_KEY_RECOMMENDED", "subCode": "CogPOID" },
-        { "code": "JSON_KEY_RECOMMENDED" },
+        { "code": "JSON_KEY_RECOMMENDED", "subCode": "HEDVersion" },
         { "code": "GZIP_HEADER_MTIME" }
     ]
 }
